@@ -7,7 +7,11 @@ The purpose of this project was to analyze Amazon review, comparing the star rat
 ### How many Vine reviews and non-Vine reviews were there?
 After filtering for helpful reviews that, there were 4,726 Vine reviews that met the filter conditions and 102,218 non-vine reviews that met those same conditions. 
 
+Below is the analysis for the in_vine data set.
+
 ![](in_vine.png)
+
+Below is the analysis for the not_in_vine data set.
 
 ![](not_in_vine.png)
 
