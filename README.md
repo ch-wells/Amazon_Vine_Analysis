@@ -7,9 +7,9 @@ The purpose of this project was to analyze Amazon review, comparing the star rat
 ### How many Vine reviews and non-Vine reviews were there?
 After filtering for helpful reviews that, there were 4,726 Vine reviews that met the filter conditions and 102,218 non-vine reviews that met those same conditions. 
 
-![](Resources/in_vine.png)
+![](in_vine.png)
 
-![](Resources/not_in_vine.png)
+![](not_in_vine.png)
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 There were 1,911 Vine reviews that were 5 stars and 46,599 non-Vine reviews that were 5 stars.
